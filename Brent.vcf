@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sauser;Brent;;;
+FN:Brent Sauser
+ORG:IZMe.ai
+TITLE:Founder
+TEL;TYPE=CELL:+1-801-555-0100
+EMAIL;TYPE=WORK:brent@izme.ai
+URL:https://izme.ai
+END:VCARD
